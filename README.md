@@ -14,6 +14,8 @@ Click to play:
 
 https://alpha-1.fidi.cash
 
+Core contract: [0x222011f0E952F8b415Be4F1ccd74ABdaaD25e942](https://alfajores-blockscout.celo-testnet.org/address/0x222011f0E952F8b415Be4F1ccd74ABdaaD25e942)
+
 ## Motivation
 
 While getting paid in crypto is great, there is still a big share of goods and services which have to be paid in cash. We have to have a ramp between the crypto and traditional fiat world. FIDI.CASH aims to solve that very problem by creating a simple, but robust protocol for exchanging off-chain goods, fiat money included.
