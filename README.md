@@ -4,16 +4,6 @@ FIDI.CASH aims to simplify cashing out crypto for fiat money (and potentially vi
 
 Deployed on Celo Alfajores Test Network.
 
-## Make Crypto Mobile Hackathon
-
-Track: **Cash In Cash Out Track**
-
-Team: FIDI.CASH
-
-Region: Russia
-
-Teammate: Alex Bakoushin
-
 ## Video
 
 Click to play:
